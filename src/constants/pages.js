@@ -167,7 +167,7 @@ const DEFINITIONS = [{
   height: `${HEIGHT}px`,
   position: 'relative',
   displayObjects: [{
-    text: '1970 年墨西哥世界杯，阿迪达斯在国际足联要求下，第一次给世界杯提供用球用球。至今阿迪达斯已为世界杯足球赛研制了 13 种官方用球。',
+    text: '1970 年墨西哥世界杯，阿迪达斯在国际足联要求下，第一次给世界杯提供用球。至今阿迪达斯已为世界杯足球赛研制了 13 种官方用球。',
     position: 'absolute',
     color: '#fff',
     top: '40px',
