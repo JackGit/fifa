@@ -43,7 +43,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: 'http://qiniu.jackyang.me/fifa/', // /
+    assetsPublicPath: '//qiniu.jackyang.me/fifa/', // /
 
     /**
      * Source Maps

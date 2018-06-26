@@ -30,7 +30,7 @@ function configWX(appId, timestamp, nonceStr, signature) {
 }
 
 function setWXShare() {
-  const title = '不了解FIFA，世界杯你还看个“球”!'
+  const title = '你需要了解的FIFA'
   const link = 'http://fifa.jackyang.me'
   const desc = '最酷的FIFA介绍'
   const imgUrl = fifaLogo
